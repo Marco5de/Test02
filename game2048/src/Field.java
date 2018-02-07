@@ -1,4 +1,4 @@
-package game2048;
+//package game2048;
 import java.util.Random;
 import java.util.Scanner;
 
